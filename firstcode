@@ -1,0 +1,6 @@
+print("Hello, GitHub!")
+name="sinchana"
+course="MCA Cyber Security"
+print("my name", name)
+print("my course", course)
+print("iam learning python and cybersecurity")
